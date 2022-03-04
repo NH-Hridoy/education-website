@@ -26,10 +26,10 @@
 
    <nav class="navbar">
       <div id="close-navbar" class="fas fa-times"></div>
-      <a href="home.html">home</a>
-      <a href="about.html">about</a>
-      <a href="courses.html">courses</a>
-      <a href="contact.html">contact</a>
+      <a href="index.php">home</a>
+      <a href="about.php">about</a>
+      <a href="courses.php">courses</a>
+      <a href="contact.php">contact</a>
    </nav>
 
    <div class="icons">
